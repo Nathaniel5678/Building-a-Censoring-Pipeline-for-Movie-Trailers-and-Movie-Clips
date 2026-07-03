@@ -51,7 +51,3 @@ This repository includes:
 * Technical report
 * Sample input videos
 * Sample filtered outputs
-
-## Acknowledgments
-
-This project was completed for LING 361: Speech Processing at Brigham Young University. AI-assisted development tools (Claude and ChatGPT) were used during implementation to accelerate development and debugging, while the overall system design, experimentation, evaluation, and final implementation decisions were my own.
